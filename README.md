@@ -21,4 +21,4 @@ This project involves cleaning and analysis that GSE344 GEO dataset to ensure da
 -Use the cleaned CVS file for further biological or statistical analysis
 
 ---
-# Author: Janessa Reed | Date: Februrary 17th, 2025
+***Author:*** Janessa Reed | ***Date:*** Februrary 17th, 2025
